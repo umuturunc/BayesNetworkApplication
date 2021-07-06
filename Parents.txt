@@ -1,0 +1,7 @@
+Price,Safety,Overall Score
+Maintenance Costs,Safety,Overall Score
+Doors,Seating Capacity,Overall Score
+Seating Capacity,Safety,Overall Score
+Luggage Size,Overall Score
+Safety,Luggage Size,Overall Score
+Overall Score
